@@ -3,7 +3,7 @@ Jasn is a tcp network scanner
 
 ## How to Use
 
-Scan the using port in give ip range.
+Scan the using port in given ip range.
 
 ```bash
 go build -o jasn.exe
